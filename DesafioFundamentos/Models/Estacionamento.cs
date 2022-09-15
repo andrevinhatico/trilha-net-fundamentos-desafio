@@ -52,7 +52,6 @@ namespace DesafioFundamentos.Models
             {
                 Console.WriteLine("Os veículos estacionados são:");
 
-
                 int countPosicao = 1;
                 foreach (var item in veiculos)
                 {
